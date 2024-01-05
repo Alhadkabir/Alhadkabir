@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hello there 👋 I'm, Alhad</h1>
 <h3 align="center">Hello, my name is Alhad, also known as alhad009 online. I'm a developer with a passion for backend development and everything surrounding it. APIs, databases, networking, distributed systems, DevOps, etc. I like em all. Sometimes I make libraries or utility software for the fun of it, most of them are here on GitHub. This profile contains most of the public work I do, as well as my contact info if someone wants to contact me. Don't hesitate to send me an email if you want to ask something, I will reply as soon as I can :D</h3>
 <img align="right" alt="my coding image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
