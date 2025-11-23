@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alhadkabir&show_icons=true&locale=en" alt="alhadkabir" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=alhadkabir&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=8&order=3" alt="alhadkabir" /></p>
+<p><div align="center"><img align="center" src="https://streak-stats.demolab.com/?user=alhadkabir&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=8&order=3" alt="alhadkabir" /></div></p>
